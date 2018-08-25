@@ -1,8 +1,7 @@
 {
-    "name": "MadCapsule/Litecoin-PHP-Library",
+    "name": "mad-capsule/litecoin-php-library",
     "description": "A Litecoin library for PHP.",
     "require": {
         "php": "^5.3.3 || ^7.0"
-
     }
 }
